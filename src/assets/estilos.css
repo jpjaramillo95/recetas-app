@@ -3,15 +3,26 @@
 }
 
 #socialMedia{
-    padding: 2px 30px 2px 5px;
+    padding: 5px 30px 0px 5px;
     margin: auto;
     background-color: black;
-    color: azure;
     text-align: right;
     align-items: center;
     vertical-align: middle;
 }
 
 .imgSocial{
-    width: 50px;
+    width: auto;
+    height: 30px;
+    padding:10px 10px 0px 0px;
+    fill: azure;
+}
+
+.linkSocial{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.linkSocial:hover .imgSocial{
+    fill: #F35B2C;
 }
