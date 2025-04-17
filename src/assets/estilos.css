@@ -1,0 +1,17 @@
+.logo{
+    width: 150px;
+}
+
+#socialMedia{
+    padding: 2px 30px 2px 5px;
+    margin: auto;
+    background-color: black;
+    color: azure;
+    text-align: right;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.imgSocial{
+    width: 50px;
+}
