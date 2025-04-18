@@ -1,3 +1,4 @@
+import "./../assets/estilos.css"
 import Card from "./card";
 import SeccionImg from "./seccionImg";
 import SeccionTxt from "./seccionTxt";

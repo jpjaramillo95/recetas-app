@@ -80,8 +80,32 @@
     margin: 20px;
   }
 
-  .btnOutlin:hover{
-    border: 1px solid #F35B2C;
+  .btnOutline:hover{
+    border: 2px solid #F35B2C;
     color: #F35B2C;
+    background-color: white;
+  }
+
+  .tituloAside{
+    margin: auto;
+    padding: 5px 3px;
+    background-color: rgb(44, 44, 44);
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .btnOutline2{
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    padding: 0px 2px;
+    margin: 15px 2px;
+  }
+
+  .btnOutline2:hover{
+    border: 2px solid black;
+    color: black;
     background-color: white;
   }
