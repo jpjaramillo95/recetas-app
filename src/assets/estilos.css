@@ -1,5 +1,5 @@
 .logo{
-    width: 150px;
+    max-width: 100%;
 }
 
 #socialMedia{
@@ -26,3 +26,39 @@
 .linkSocial:hover .imgSocial{
     fill: #F35B2C;
 }
+
+.bgColor{
+    background-color: #F35B2C;
+}
+
+.dropdown-item{
+    font-weight: bold;
+}
+
+.dropdown-item:hover{
+    background-color: white;
+    color: #F35B2C;
+}
+
+.menuItem{
+    font-weight: bold;
+}
+
+.menuItem:hover{
+    background-color: #e5e5e5;
+    color: #F35B2C !important;
+}
+
+.menuItem2{
+    font-weight: bold;
+    background-color: white;
+    color: black;
+}
+
+.lupa{
+    width: 30px;
+}
+
+#searchInput.show {
+    transition: all 0.3s ease-in-out;
+  }
