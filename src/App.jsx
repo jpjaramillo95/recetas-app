@@ -11,10 +11,10 @@ function App() {
       <SocialMedia />
       <Header />
       <Menu />
-      <div class="container mt-5">
-        <div class="row">
-          <Aside />
+      <div className="container mt-5">
+        <div className="row">
           <Content />
+          <Aside />
         </div>
       </div>
 
